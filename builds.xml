@@ -1,0 +1,22 @@
+<builds>
+
+  <build>
+	<name>Gaby test build</name>
+	<version>0.1</version>
+	<url>https://www.dropbox.com/scl/fi/sq6abmsbv2ie2htpkt1by/plugin.video.gabytest.zip?rlkey=4je5v3bmmcxf6cw89zvde9yap&st=fz30evgv&dl=1</url>
+	<icon>https://github.com/gabihuelma/Kodixtreme/blob/main/icon.jpg?raw=true</icon>
+	<fanart>https://github.com/gabihuelma/Kodixtreme/blob/main/fanart.jpg?raw=true</fanart>
+	<description>Probando</description>
+  </build>
+  
+</builds>
+ 
+ <build>
+	<name>Gaby test build</name>
+	<version>0.1</version>
+	<url>https://www.dropbox.com/scl/fi/sq6abmsbv2ie2htpkt1by/plugin.video.gabytest.zip?rlkey=4je5v3bmmcxf6cw89zvde9yap&st=fz30evgv&dl=1</url>
+	<icon>https://github.com/gabihuelma/Kodixtreme/blob/main/icon.jpg?raw=true</icon>
+	<fanart>https://github.com/gabihuelma/Kodixtreme/blob/main/fanart.jpg?raw=true</fanart>
+	<description>Probando</description>
+  
+  </build>
